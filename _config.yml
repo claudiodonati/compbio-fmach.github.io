@@ -24,7 +24,7 @@ description: Fondazione Edmund Mach (FEM)
 # List of links in the navigation bar
 navbar-links:
   People: "people"
-  Publications: "people"
+  Publications: "publications"
   News: "news"
   Resources:
     - Fondazione Edmund Mach: "http://www.fmach.it/eng"
