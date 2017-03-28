@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Computational Biology Unit
-subtitle: Computational Biology Unit - FEM
+subtitle: Fondazione Edmund Mach (FEM)
 use-site-title: true
 ---
