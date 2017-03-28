@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://compbio-fmach.github.io"
+url: "http://compbio-fmach.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -128,11 +128,11 @@ kramdown:
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: False  # add comments to all blog posts
+      comments: True  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
