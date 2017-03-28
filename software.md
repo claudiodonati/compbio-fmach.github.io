@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Software projects
-subtitle: 
+title: Software
 use-site-title: true
 ---
 
