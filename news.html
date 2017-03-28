@@ -5,10 +5,8 @@ subtitle:
 use-site-title: false
 ---
 
-test1
 <div class="posts-list">
-  {% for post in page.pagination.posts %}
-  test1
+  {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
