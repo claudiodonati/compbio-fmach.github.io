@@ -5,4 +5,4 @@ subtitle:
 use-site-title: true
 ---
 
-{% include bibliography.html %}
+{% include bibliography.html %} 
