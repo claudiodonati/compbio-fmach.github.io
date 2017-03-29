@@ -5,9 +5,10 @@ subtitle: Fondazione Edmund Mach (FEM)
 use-site-title: true
 ---
 
+<img src="img/home.png" alt="Neisseria" style="width: 200px;"/>
 Integrates the most advanced computational techniques, as bioinformatics, 
 computational modelling, computational biochemistry and genomics, and systems
-biology. ![home](img/home.png)
+biology.
 
 The advent of -omics technologies is changing biology and life sciences from
 descriptive disciplines into data-intensive sciences. Within the FEM Research and 
