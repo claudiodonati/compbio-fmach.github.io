@@ -29,9 +29,7 @@ navbar-links:
   Resources:
     - Fondazione Edmund Mach: "http://www.fmach.it/eng"
     - How to reach us: http://www.fmach.it/eng/Contact-us
-  Software: "software"
-  
-  
+  Tools: "tools"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
