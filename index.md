@@ -7,7 +7,7 @@ use-site-title: true
 
 Integrates the most advanced computational techniques, as bioinformatics, 
 computational modelling, computational biochemistry and genomics, and systems
-biology.
+biology. ![home](img/home.png)
 
 The advent of -omics technologies is changing biology and life sciences from
 descriptive disciplines into data-intensive sciences. Within the FEM Research and 
