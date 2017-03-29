@@ -5,7 +5,7 @@ subtitle: Fondazione Edmund Mach (FEM)
 use-site-title: true
 ---
 
-<img src="img/neisseria.png" alt="Neisseria" style="border:40px solid;float:right;width:300px;"/>
+<img src="img/neisseria.png" alt="Neisseria" style="border:40px solid transparent;float:right;width:300px;"/>
 Integrates the most advanced computational techniques, as bioinformatics, 
 computational modelling, computational biochemistry and genomics, and systems
 biology.
