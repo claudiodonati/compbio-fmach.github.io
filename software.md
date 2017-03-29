@@ -11,7 +11,7 @@ classification and phylogenetic tree inference. The pipeline can be applied to
 a range of highly conserved genes/spacers, such as 16S rRNA gene, Internal 
 Transcribed Spacer (ITS) and 28S rRNA.
 
-### [minepy](http://minepy.readthedocs.io/) | Maximal Information-based Nonparametric Exploration
+### [minepy](http://minepy.readthedocs.io/) | MIC and MINE
 minepy provides an ANSI C, Python and MATLAB library for the Maximal
 Information-based Nonparametric Exploration (MIC and MINE family).
 
